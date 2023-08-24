@@ -1,0 +1,9 @@
+[submodule "cs231n_2017-dataset"]
+	path = cs231n_2017-dataset
+	url = git@github.com:chuber11/cs231n_2017-dataset.git
+[submodule "cs221_2019-dataset"]
+	path = cs221_2019-dataset
+	url = git@github.com:chuber11/cs221_2019-dataset.git
+[submodule "cs_ca_CMU_2015"]
+	path = cs_ca_CMU_2015
+	url = git@github.com:chuber11/cs_ca_CMU_2015.git
